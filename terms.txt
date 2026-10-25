@@ -1,0 +1,2 @@
+Condiciones del Servicio para Redsafio
+Al añadir o utilizar este bot en tu servidor, aceptas que es una herramienta en desarrollo provista "tal cual" sin garantías explícitas. Queda estrictamente prohibido utilizar los comandos del bot para violar las directrices de la comunidad de Discord, hacer spam, acosar a otros usuarios o intentar colapsar las funciones del bot. El desarrollador se reserva el derecho de bloquear el acceso al bot en servidores que incumplan estas normas.
