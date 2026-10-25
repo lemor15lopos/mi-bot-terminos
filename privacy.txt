@@ -1,0 +1,4 @@
+Política de Privacidad para Redsafio
+Este bot solo recopila y procesa las IDs de usuario, IDs de servidor y el contenido de los mensajes estrictamente necesarios para ejecutar los comandos solicitados en tiempo real.
+No almacenamos registros de mensajes a largo plazo en bases de datos externas ni vendemos información a terceros. Para solicitar la eliminación de cualquier dato residual,
+ponte en contacto con el desarrollador a través de nuestro servidor de soporte o mensaje directo.
